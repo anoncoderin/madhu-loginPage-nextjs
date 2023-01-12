@@ -1,0 +1,44 @@
+.test{
+    color: var(--dark-red);
+    font-family: var(--font-style);
+  }
+  
+
+  .test2{ 
+    color: var(--yellow);
+    background-color: var(--pink);
+  }
+  .test3{
+    background-color: var(--yellow);
+    font-family: var(--font-style2);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 4px;
+    padding-left: 4px;
+    
+  }
+.test3:hover{
+    background-color: var(--gray);
+}
+.test2:hover{
+    background-color: var(--gray);
+}
+
+.test4{
+    font-size: var(--font-size);
+    color: var(--green);
+
+}
+.test5{
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: var(--dark-red);
+}
+.test5:hover{
+  background-color: var(--gray);
+  box-shadow: 5px 5px 5px rgb(155, 154, 152);
+
+}
